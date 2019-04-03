@@ -1,0 +1,58 @@
+.cajaout,
+.cajain {
+  width: 90%;
+  height: auto;
+  padding: 20px;
+  background-color: #000000ca;
+}
+
+.imgizq {
+  padding-left:15%; background: top left/14% no-repeat; min-height:150px
+}
+.imgder {
+  padding-right:15%; background: top right/14% no-repeat; min-height:150px; text-align:right
+}
+.skurk {
+  background: url(https://i.pinimg.com/564x/c2/03/f1/c203f19061d33f3ae6abbac078bb3eee.jpg)
+      center/40% no-repeat,
+    url(https://i.pinimg.com/564x/bd/19/f2/bd19f2d31d7aa0df4ccf03b93da1f6b3.jpg);
+  background-blend-mode: multiply;
+}
+.skurk h1,
+.skurk b {
+  color: white;
+}
+.cajaout a{color: inherit}
+.jan {
+  background: url(https://i.pinimg.com/564x/52/83/4c/52834cc580999646658d3ac4e72f31ec.jpg)
+      left/40% no-repeat,
+    url(https://i.pinimg.com/564x/bc/a3/73/bca373edfe2a2af4bdf42b35b31a3c0c.jpg);
+  background-blend-mode: multiply;
+}
+
+.jan h1,
+.jan b {
+  color: #ff9900;
+}
+.tanets {
+  background: url(https://i.pinimg.com/564x/b3/43/09/b34309cc39ebaab9ee03414fe4d5e5f7.jpg)
+      right/40% no-repeat,
+    url(https://i.pinimg.com/564x/62/c9/c8/62c9c8f649e121e06671251a3f0d9a8c.jpg);
+  background-blend-mode: multiply;
+}
+
+.tanets h1,
+.tanets b {
+  color: #4169e1;
+}
+.tentrei {
+  background: url(https://b.kisscc0.com/20180813/vxw/kisscc0-mandolin-drawing-string-instruments-musical-instru-bowlback-mandolin-5b712e68e35b66.6909842115341441049313.png)
+      left/40% no-repeat,
+    url(https://i.pinimg.com/564x/62/c9/c8/62c9c8f649e121e06671251a3f0d9a8c.jpg),
+    #910910ef;
+  background-blend-mode: overlay;
+}
+.tentrei h1,
+.tentrei b {
+  color: #910910;
+}
